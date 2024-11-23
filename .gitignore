@@ -1,0 +1,40 @@
+# Ignore build files
+build/
+*.o
+*.obj
+*.exe
+
+# Ignore IDE files
+.vscode/
+*.suo
+*.ntvs*
+*.cppproj
+*.vcxproj
+
+# Ignore compiler output
+*.dll
+*.so
+*.a
+*.lib
+
+# Ignore other miscellaneous files
+*.log
+*.tmp
+*.bak
+*.user
+*.sdf
+*.opensdf
+
+# Ignore C++ specific files
+*.d
+*.depend
+*.class
+*.gch
+
+# Ignore operating system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Ignore vscode files
+*.vscode
