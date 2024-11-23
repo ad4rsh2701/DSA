@@ -12,6 +12,8 @@ using namespace std;
  * @param      target  The target element.
  *
  * @return     The index of the target element if found, -1 otherwise.
+ * 
+ * @see        DSA\Notes\vector.md for more information on vectors.
  */
 
 int main() {
